@@ -44,5 +44,5 @@ Design of simple SnakeAndLadderGame using java oop concepts
   - Here the inputs are taken and stored in respective lists and hashmaps.
   - From here the startGame() method is called.
 # Output
-
+![output](https://raw.githubusercontent.com/chandrika3105/SnakesAndLadderGame/main/output1.png)
   
